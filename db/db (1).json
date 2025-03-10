@@ -1,0 +1,62 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "two two",
+      "singer": "Aniruth",
+      "genre": "Romantic",
+      "imgUrl": "https://static.toiimg.com/thumb/msid-90849085,width-1280,height-720,imgsize-137368,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "songUrl": "public/Songs/Two-Two-Two-MassTamilan.so.mp3"
+    },
+    {
+      "id": 2,
+      "title": "Chaleya",
+      "singer": "Arijit Singh",
+      "genre": "Romantic",
+      "imgUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202309/chaleya-song-141618193-1x1.jpg?VersionId=4H9DEXybp0zu2rGuku7n_C2z8stxuBJZ",
+      "songUrl": "Songs/chaleya.mp3"
+    },
+    {
+      "id": 3,
+      "title": "Humnava Mere",
+      "singer": "Jubin Nautiyal",
+      "genre": "Romantic",
+      "imgUrl": "https://c.saavncdn.com/259/Humnava-Mere-Hindi-2018-20180522-500x500.jpg",
+      "songUrl": "Songs/Humnava Mere.mp3"
+    },
+    {
+      "id": 4,
+      "title": "Saari Duniya Jalaa Denge",
+      "singer": "B Praak",
+      "genre": "Emotional",
+      "imgUrl": "https://c.saavncdn.com/623/Saari-Duniya-Jalaa-Denge-From-ANIMAL-Hindi-2023-20231124191004-500x500.jpg",
+      "songUrl": "Songs/Saari Duniya Jalaa Denge.mp3"
+    },
+    {
+      "id": 5,
+      "title": "kissik",
+      "singer": "subalahshini",
+      "genre": "Emotional",
+      "imgUrl": "https://im.indiatimes.in/content/2024/Nov/pushpa-2-allu-arjun-sreeleela-are-are-setting-the-stage-ablaze-in-the-new-song-kissik_6743f3ddc8e4c.jpg",
+      "songUrl": "public/Songs/Kissik.mp3"
+    },
+    {
+      "id": 6,
+      "title": "mattikinaru mattikinaru",
+      "singer": "leo jones,gana apelow",
+      "genre": "vibe",
+      "imgUrl": "https://images.fandango.com/ImageRenderer/0/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/239474/Dragon_2025.jpg",
+      "songUrl": "public/Songs/Maatikkinaaru Orutharu.mp3"
+    },
+    {
+      "id": 7,
+      "title": "kannadi poove",
+      "singer": "Santhosh narayanan",
+      "genre": "Emotional",
+      "imgUrl": "https://assetscdn1.paytm.com/images/cinema/Retro--galery-831af690-d7cb-11ef-83bf-1dede4761f84.jpg",
+      "songUrl": "public/Songs/Kannadi-Poove-MassTamilan.dev.mp3"
+    }
+  ],
+  "favorities": [],
+  "playlist": []
+}
